@@ -1,0 +1,46 @@
+# Quiz App
+
+A simple quiz application built with JavaScript, HTML, and CSS. This project allows users to take quizzes, view their scores, and get instant feedback on their answers.
+
+## Features
+
+- Multiple choice questions
+- Instant feedback on answers
+- Score tracking
+- Responsive design
+
+## Getting Started
+
+### Prerequisites
+
+- Modern web browser
+
+### Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/yourusername/quiz.app.git
+    ```
+2. Navigate to the project folder:
+    ```sh
+    cd quiz.app
+    ```
+3. Open `index.html` in your browser to start the app.
+
+## Usage
+
+- Select a quiz to begin.
+- Answer each question.
+- View your score at the end.
+
+## Project Structure
+
+```
+quiz.app/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   └── images/
+├── readme
+```
